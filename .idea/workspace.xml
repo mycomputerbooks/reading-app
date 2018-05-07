@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="747c0ced-2c0d-4608-9324-5cb02898954b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web-app" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.4819672">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="54">
+                  <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="a_text_file.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/a_text_file.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="6" selection-start-column="6" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="page-Starter" />
+        <option value="HTML File" />
+        <option value="page startup" />
+        <option value="HTML5 Plus" />
+        <option value="startup" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.</find>
+      <find>groupEspanol</find>
+      <find>wc</find>
+      <find>_glo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#</replace>
+      <replace>Stage_toolBar_groupEspanol</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/page01.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/assets/htmlMain/toolBar.html" />
+        <option value="$PROJECT_DIR$/app/assets/htmlMain/recNav.html" />
+        <option value="$PROJECT_DIR$/app/assets/htmlMain/preferences.html" />
+        <option value="$PROJECT_DIR$/app/assets/htmlMain/btnVideo.html" />
+        <option value="$PROJECT_DIR$/app/temp/scripts/styles.css" />
+        <option value="$PROJECT_DIR$/app/assets/symbols/btnVideo.html" />
+        <option value="$PROJECT_DIR$/app/assets/pages/page01/page01.css" />
+        <option value="$PROJECT_DIR$/app/assets/symbols/toolBar/toolbar.css" />
+        <option value="$PROJECT_DIR$/app/assets/pages/page01/page01.html" />
+        <option value="$PROJECT_DIR$/app/assets/symbols/toolBar/toolbar.html" />
+        <option value="$PROJECT_DIR$/app/cover.html" />
+        <option value="$PROJECT_DIR$/app/testing/testFile" />
+        <option value="$PROJECT_DIR$/app/testing/index.html" />
+        <option value="$PROJECT_DIR$/gulp/tasks/watch.js" />
+        <option value="$PROJECT_DIR$/app/assets/styles/modules/_page01.css" />
+        <option value="$PROJECT_DIR$/app/assets/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/assets/styles/base/_global.css" />
+        <option value="$PROJECT_DIR$/app/assets/styles/base/_variables.css" />
+        <option value="$PROJECT_DIR$/app/assets/styles/modules/_toolbar.css" />
+        <option value="$PROJECT_DIR$/app/get.html" />
+        <option value="$PROJECT_DIR$/app/tyyyest.html" />
+        <option value="$PROJECT_DIR$/app/testing/test.html" />
+        <option value="$PROJECT_DIR$/app/assets/styles/modules/_cover.css" />
+        <option value="$PROJECT_DIR$/app/assets/styles/styles.css" />
+        <option value="$PROJECT_DIR$/app/temp/styles/styles.css" />
+        <option value="$PROJECT_DIR$/app/testing/fileSystem.js" />
+        <option value="$PROJECT_DIR$/app/testing/test.js" />
+        <option value="$PROJECT_DIR$/app/testing/nuke.html" />
+        <option value="$PROJECT_DIR$/app/fght.html" />
+        <option value="$PROJECT_DIR$/app/page01.html" />
+        <option value="$PROJECT_DIR$/app/toolbar.html" />
+        <option value="$PROJECT_DIR$/app/mooty.html" />
+        <option value="$PROJECT_DIR$/app/pasg.html" />
+        <option value="$PROJECT_DIR$/app/lstt.html" />
+        <option value="$PROJECT_DIR$/app/aaaa.html" />
+        <option value="$PROJECT_DIR$/app/stsrg.html" />
+        <option value="$PROJECT_DIR$/app/oppo.html" />
+        <option value="$PROJECT_DIR$/app/lkjl.html" />
+        <option value="$PROJECT_DIR$/app/iiiiiiuyyyy.html" />
+        <option value="$PROJECT_DIR$/app/vue.vue" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/indexReal.html" />
+        <option value="$PROJECT_DIR$/a_text_file.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="153" />
+    <option name="y" value="67" />
+    <option name="width" value="1024" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="js&#9;FILE&#9;file:///Applications/MAMP/htdocs/web-app/app/testing/fileSystem.js&#10;styles&#9;FILE&#9;file:///Applications/MAMP/htdocs/web-app/app/temp/styles/styles.css" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/pages" />
+      <recent name="$PROJECT_DIR$/app/assets/pages/page01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/temp/scripts" />
+      <recent name="$PROJECT_DIR$/app/assets" />
+      <recent name="$PROJECT_DIR$/app/assets/pages/page01" />
+      <recent name="C:\Users\Mark\Dropbox\xampp\htdocs\ready-hen\app\assets\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="747c0ced-2c0d-4608-9324-5cb02898954b" name="Default" comment="" />
+      <created>1524921614650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524921614650</updated>
+      <workItem from="1524921617239" duration="4574000" />
+      <workItem from="1524959050828" duration="9116000" />
+      <workItem from="1525011536398" duration="513000" />
+      <workItem from="1525060214749" duration="557000" />
+      <workItem from="1525087712813" duration="1218000" />
+      <workItem from="1525150954639" duration="1126000" />
+      <workItem from="1525174659275" duration="18676000" />
+      <workItem from="1525218098271" duration="7157000" />
+      <workItem from="1525236924684" duration="4970000" />
+      <workItem from="1525252442763" duration="12058000" />
+      <workItem from="1525284869143" duration="5281000" />
+      <workItem from="1525296866325" duration="320000" />
+      <workItem from="1525297208311" duration="8475000" />
+      <workItem from="1525316967968" duration="4315000" />
+      <workItem from="1525348270760" duration="5073000" />
+      <workItem from="1525361316310" duration="16921000" />
+      <workItem from="1525412561729" duration="719000" />
+      <workItem from="1525427779812" duration="3573000" />
+      <workItem from="1525454092936" duration="3394000" />
+      <workItem from="1525457545728" duration="204000" />
+      <workItem from="1525458406885" duration="1404000" />
+      <workItem from="1525463196881" duration="12334000" />
+      <workItem from="1525507325055" duration="1424000" />
+      <workItem from="1525534339219" duration="80000" />
+      <workItem from="1525534937564" duration="39000" />
+      <workItem from="1525535070192" duration="598000" />
+      <workItem from="1525536108894" duration="85000" />
+      <workItem from="1525536232760" duration="758000" />
+      <workItem from="1525539213383" duration="60000" />
+      <workItem from="1525582764833" duration="49000" />
+      <workItem from="1525582944839" duration="292000" />
+      <workItem from="1525583577991" duration="69000" />
+      <workItem from="1525592789840" duration="349000" />
+      <workItem from="1525593237274" duration="506000" />
+      <workItem from="1525615325738" duration="21000" />
+      <workItem from="1525654450525" duration="666000" />
+      <workItem from="1525701433660" duration="3114000" />
+      <workItem from="1525731617983" duration="666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130754000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="153" y="67" width="1024" height="745" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4596577" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49941725" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502331" side_tool="true" weight="0.34623432" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.57585824" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.497669" weight="0.3279743" />
+      <window_info id="npm" order="2" sideWeight="0.5403423" side_tool="true" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="Structure" order="8" sideWeight="0.30816326" side_tool="true" visible="true" weight="0.3456" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.6918367" visible="true" weight="0.3456" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="1" sideWeight="0.5012854" side_tool="true" weight="0.30710956" />
+      <window_info anchor="right" auto_hide="true" x="2079" y="224" width="894" height="881" id="Notes" order="3" type="FLOATING" visible="true" weight="0.3297609" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.49941725" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/testing/fileSystem.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/base/_global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/indexReal.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/symbols/toolBar/toolbar.css" />
+    <entry file="file://$PROJECT_DIR$/app/assets/pages/page01/page01.css" />
+    <entry file="file://$PROJECT_DIR$/app/assets/tyuuu.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/pages/page01/page01.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/symbols/toolBar/toolbar.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/html/toolbar.html" />
+    <entry file="file://$PROJECT_DIR$/app/testing/testFile" />
+    <entry file="file://$PROJECT_DIR$/app/page02.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_page01.css" />
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/scripts/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/temp/scripts/styles.css" />
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_site-header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cover.html" />
+    <entry file="file://$PROJECT_DIR$/app/tyyyest.html" />
+    <entry file="file://$PROJECT_DIR$/app/get.html" />
+    <entry file="file://$PROJECT_DIR$/gulp/tasks/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testing/test.html" />
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/base/_global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/scripts/modules/StickyHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/temp/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22576">
+          <caret line="1328" selection-start-line="1328" selection-end-line="1328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_toolbar.css" />
+    <entry file="file://$PROJECT_DIR$/app/testing/test.js" />
+    <entry file="file://$PROJECT_DIR$/app/testing/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/testing/nuke.html" />
+    <entry file="file://$PROJECT_DIR$/app/fght.html" />
+    <entry file="file://$PROJECT_DIR$/app/page01.html" />
+    <entry file="file://$PROJECT_DIR$/app/mooty.html" />
+    <entry file="file://$PROJECT_DIR$/app/5p.html" />
+    <entry file="file://$PROJECT_DIR$/app/pasg.html" />
+    <entry file="file://$PROJECT_DIR$/app/lstt.html" />
+    <entry file="file://$PROJECT_DIR$/app/toolbar.html" />
+    <entry file="file://$PROJECT_DIR$/app/aaaa.html" />
+    <entry file="file://$PROJECT_DIR$/app/stsrg.html" />
+    <entry file="file://$PROJECT_DIR$/app/lkjl.html" />
+    <entry file="file://$PROJECT_DIR$/app/resplve.html" />
+    <entry file="file://$PROJECT_DIR$/app/start.html" />
+    <entry file="file://$PROJECT_DIR$/app/testing/fileSystem.js" />
+    <entry file="file://$PROJECT_DIR$/app/iiiiiiuyyyy.html" />
+    <entry file="file://$PROJECT_DIR$/app/vue.vue" />
+    <entry file="file://$PROJECT_DIR$/app/indexReal.html" />
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_text_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
