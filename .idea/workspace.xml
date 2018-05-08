@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="747c0ced-2c0d-4608-9324-5cb02898954b" name="Default" comment="" />
+    <list default="true" id="747c0ced-2c0d-4608-9324-5cb02898954b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +25,8 @@
           <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/gulpfile.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                <state relative-caret-position="68">
+                  <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -41,11 +44,38 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="a_text_file.txt" pinned="false" current-in-tab="true">
+          <file leaf-file-name="a_text_file.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/a_text_file.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
                   <caret column="6" selection-start-column="6" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/styles/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/scripts/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
@@ -74,6 +104,7 @@
       <find>groupEspanol</find>
       <find>wc</find>
       <find>_glo</find>
+      <find>innp</find>
     </findStrings>
     <replaceStrings>
       <replace>#</replace>
@@ -128,9 +159,10 @@
         <option value="$PROJECT_DIR$/app/lkjl.html" />
         <option value="$PROJECT_DIR$/app/iiiiiiuyyyy.html" />
         <option value="$PROJECT_DIR$/app/vue.vue" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/indexReal.html" />
         <option value="$PROJECT_DIR$/a_text_file.txt" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/assets/scripts/App.js" />
       </list>
     </option>
   </component>
@@ -157,10 +189,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="153" />
-    <option name="y" value="67" />
-    <option name="width" value="1024" />
-    <option name="height" value="745" />
+    <option name="x" value="15" />
+    <option name="y" value="25" />
+    <option name="width" value="1559" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -176,6 +208,39 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="scripts" type="cbb8eebc:String" user="scripts" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="scripts" type="cbb8eebc:String" user="scripts" />
+              <item name="modules" type="cbb8eebc:String" user="modules" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="reading-app" type="cbb8eebc:String" user="reading-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="styles" type="cbb8eebc:String" user="styles" />
             </path>
           </expand>
           <select />
@@ -309,15 +374,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/assets/pages" />
-      <recent name="$PROJECT_DIR$/app/assets/pages/page01" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/temp/scripts" />
       <recent name="$PROJECT_DIR$/app/assets" />
       <recent name="$PROJECT_DIR$/app/assets/pages/page01" />
       <recent name="C:\Users\Mark\Dropbox\xampp\htdocs\ready-hen\app\assets\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/pages" />
+      <recent name="$PROJECT_DIR$/app/assets/pages/page01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -379,12 +444,12 @@
       <workItem from="1525615325738" duration="21000" />
       <workItem from="1525654450525" duration="666000" />
       <workItem from="1525701433660" duration="3114000" />
-      <workItem from="1525731617983" duration="666000" />
+      <workItem from="1525731617983" duration="6942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130754000" />
+    <option name="totallyTimeSpent" value="137030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,21 +461,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="153" y="67" width="1024" height="745" extended-state="0" />
-    <editor active="true" />
+    <frame x="15" y="25" width="1559" height="940" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4596577" visible="true" weight="0.3989796" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49941725" weight="0.3290461" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502331" side_tool="true" weight="0.34623432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45742574" side_tool="true" weight="0.2621951" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.57585824" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.497669" weight="0.3279743" />
-      <window_info id="npm" order="2" sideWeight="0.5403423" side_tool="true" visible="true" weight="0.3989796" />
-      <window_info anchor="bottom" id="Structure" order="8" sideWeight="0.30816326" side_tool="true" visible="true" weight="0.3456" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.6918367" visible="true" weight="0.3456" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.4970297" visible="true" weight="0.32682925" />
+      <window_info id="npm" order="2" sideWeight="0.3423913" side_tool="true" visible="true" weight="0.39867988" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5425743" weight="0.2609756" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6576087" visible="true" weight="0.39867988" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Structure" order="8" sideWeight="0.5029703" side_tool="true" visible="true" weight="0.32682925" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="1" sideWeight="0.5012854" side_tool="true" weight="0.30710956" />
-      <window_info anchor="right" auto_hide="true" x="2079" y="224" width="894" height="881" id="Notes" order="3" type="FLOATING" visible="true" weight="0.3297609" />
+      <window_info anchor="right" auto_hide="true" x="2588" y="333" width="894" height="881" id="Notes" order="3" type="FLOATING" visible="true" weight="0.3297609" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -419,7 +484,6 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/scripts/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/temp/scripts/styles.css" />
     <entry file="file://$PROJECT_DIR$/app/assets/styles/modules/_site-header.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -525,13 +582,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/testing/test.html" />
-    <entry file="file://$PROJECT_DIR$/app/assets/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/styles/base/_global.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -573,10 +623,10 @@
     <entry file="file://$PROJECT_DIR$/app/iiiiiiuyyyy.html" />
     <entry file="file://$PROJECT_DIR$/app/vue.vue" />
     <entry file="file://$PROJECT_DIR$/app/indexReal.html" />
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/a_text_file.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -587,17 +637,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="204">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a_text_file.txt">
+    <entry file="file://$PROJECT_DIR$/app/assets/styles/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="252">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/scripts/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
